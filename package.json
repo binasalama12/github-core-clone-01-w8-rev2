@@ -1,1 +1,1 @@
-{"description":"A GitHub-compatible git forge built on the repository pattern with a unit of work (bright-falcon-67)","engines":{"node":">=22.18"},"license":"MIT","name":"github-core-clone-01-bright-falcon-67","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
+{"description":"GitHub-compatible git forge built around a repository aggregate and a unit-of-work version check.","engines":{"node":">=22.18"},"license":"MIT","name":"github-core-clone-01-bright-falcon-67","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
